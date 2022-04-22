@@ -1,5 +1,6 @@
 galaxy_info:
   role_name: 'prepare_SUSE_HA_clusternode'
+  namespace: 'johanneskastl'
   author: 'Johannes Kastl'
   description: 'Prepare and configure a clusternode for SUSE HA (pacemaker, corosync, ...)'
   company: 'B1 Systems GmbH'
