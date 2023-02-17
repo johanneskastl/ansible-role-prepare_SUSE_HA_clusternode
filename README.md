@@ -27,7 +27,7 @@ Example Playbook
 
     - hosts: servers
       roles:
-         - { role: 'johanneskastl.prepare_SUSE_HA_clusternode' }
+         - role: 'johanneskastl.prepare_SUSE_HA_clusternode'
 
 License
 -------
